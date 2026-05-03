@@ -1,7 +1,7 @@
-# Lotus IPTV
+# Lumio IPTV
 
 <p align="center">
-  <img src="assets/icons/app_icon.png" width="120" alt="Lotus IPTV Logo">
+  <img src="assets/icons/app_icon.png" width="120" alt="Lumio IPTV Logo">
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
   </a>
 </p>
 
-Lotus IPTV is a modern, high-performance IPTV player built with Flutter. Features a beautiful Lotus-themed UI with pink/purple gradient accents(Split-screen support), optimized for seamless viewing across desktop, mobile, and TV platforms.
+Lumio IPTV is a modern, high-performance IPTV player built with Flutter. Features a beautiful, elegant UI with dynamic gradient accents (Split-screen support), optimized for seamless viewing across desktop, mobile, and TV platforms.
 
 ## 📸 Screenshots
 
@@ -56,7 +56,7 @@ https://iptv-org.github.io/iptv/index.m3u
 ```
 
 **How to add:**
-1. Open Lotus IPTV
+1. Open Lumio IPTV
 2. Click "Add Playlist" or "+" button
 3. Select "From URL"
 4. Paste the URL above
@@ -121,7 +121,7 @@ Download the latest version from [Releases Page](https://github.com/shnulaa/Flut
 ### 🎨 Multi-Color Theme System
 - **12 Preset Color Schemes**: 6 dark themes + 6 light themes
 - **Dynamic Theme Switching**: Change colors across entire UI instantly
-- **Color Schemes**: Lotus Pink, Ocean Blue, Forest Green, Sunset Orange, Royal Purple, Cherry Red
+- **Color Schemes**: Lumio Indigo, Ocean Blue, Forest Green, Sunset Orange, Royal Purple, Cherry Red
 - Glassmorphism style cards for desktop/mobile
 - TV-optimized interface with smooth performance
 - Auto-collapsing sidebar navigation
@@ -177,7 +177,7 @@ Download the latest version from [Releases Page](https://github.com/shnulaa/Flut
 
 ### 📺 DLNA Screen Casting
 - Built-in DLNA renderer (DMR) service
-- Cast videos from other devices to Lotus IPTV
+- Cast videos from other devices to Lumio IPTV
 - Support for common video formats
 - Playback control from casting device (play/pause/seek/volume)
 - Auto-start DLNA service option
